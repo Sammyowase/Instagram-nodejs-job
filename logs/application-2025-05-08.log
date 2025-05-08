@@ -1,0 +1,362 @@
+2025-05-08 11:04:30 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:04:30 info: Running database seeders...
+2025-05-08 11:04:31 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:04:32 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:04:32 info: Database seeding completed
+2025-05-08 11:04:32 info: Server listening on port 8000
+2025-05-08 11:05:03 info: ::1 - - [08/May/2025:10:05:03 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:05:03 info: ::1 - - [08/May/2025:10:05:03 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:05:04 info: ::1 - - [08/May/2025:10:05:04 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 200 30550 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:05:04 info: ::1 - - [08/May/2025:10:05:04 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:05:04 info: ::1 - - [08/May/2025:10:05:04 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:13:29 warn: Non-admin login attempt at admin endpoint: samuelowase02@gmail.com
+2025-05-08 11:13:29 info: ::1 - - [08/May/2025:10:13:29 +0000] "POST /api/admin-auth/login HTTP/1.1" 403 55 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:14:08 warn: Non-admin login attempt at admin endpoint: samuelowase02@gmail.com
+2025-05-08 11:14:08 info: ::1 - - [08/May/2025:10:14:08 +0000] "POST /api/admin-auth/login HTTP/1.1" 403 55 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:16:18 warn: Non-admin login attempt at admin endpoint: samuelowase02@gmail.com
+2025-05-08 11:16:18 info: ::1 - - [08/May/2025:10:16:18 +0000] "POST /api/admin-auth/login HTTP/1.1" 403 55 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:17:02 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 11:17:02 info: Running database seeders...
+2025-05-08 11:17:03 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:17:03 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:17:03 info: Database seeding completed
+2025-05-08 11:17:03 info: Server listening on port 8000
+2025-05-08 11:19:46 warn: Non-admin login attempt at admin endpoint: samuelowase02@gmail.com
+2025-05-08 11:19:46 info: ::1 - - [08/May/2025:10:19:46 +0000] "POST /api/admin-auth/login HTTP/1.1" 403 55 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:26:38 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:26:38 info: Running database seeders...
+2025-05-08 11:26:38 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:26:38 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:26:38 info: Database seeding completed
+2025-05-08 11:26:38 info: Server listening on port 8000
+2025-05-08 11:26:47 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:26:47 info: Running database seeders...
+2025-05-08 11:26:47 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:26:48 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:26:48 info: Database seeding completed
+2025-05-08 11:26:48 info: Server listening on port 8000
+2025-05-08 11:27:23 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:27:23 info: Running database seeders...
+2025-05-08 11:27:24 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:27:24 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:27:24 info: Database seeding completed
+2025-05-08 11:27:24 info: Server listening on port 8000
+2025-05-08 11:27:57 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:27:57 info: Running database seeders...
+2025-05-08 11:27:57 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:27:58 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:27:58 info: Database seeding completed
+2025-05-08 11:27:58 info: Server listening on port 8000
+2025-05-08 11:29:13 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:29:13 info: Connected to database
+2025-05-08 11:29:14 info: Admin user already exists:
+2025-05-08 11:29:14 info: Email: samuelowase02@gmail.com
+2025-05-08 11:29:14 info: Role: user
+2025-05-08 11:29:14 info: Verified: true
+2025-05-08 11:29:14 info: Admin user updated to ensure correct role and verification status
+2025-05-08 11:30:01 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:30:01 info: Running database seeders...
+2025-05-08 11:30:01 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:30:02 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:30:02 info: Database seeding completed
+2025-05-08 11:30:02 info: Server listening on port 8000
+2025-05-08 11:30:03 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:30:03 info: Running database seeders...
+2025-05-08 11:30:03 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:30:03 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:32:36 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:32:36 info: Running database seeders...
+2025-05-08 11:32:36 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:32:36 info: Running database seeders...
+2025-05-08 11:32:36 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:32:36 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:32:37 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:32:37 info: Database seeding completed
+2025-05-08 11:32:37 info: Server listening on port 8000
+2025-05-08 11:32:37 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:35:42 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:35:42 info: Running database seeders...
+2025-05-08 11:35:43 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:35:43 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:35:43 info: Database seeding completed
+2025-05-08 11:35:43 info: Server listening on port 8000
+2025-05-08 11:36:14 info: ::1 - - [08/May/2025:10:36:14 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:36:18 info: ::1 - - [08/May/2025:10:36:18 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:36:18 info: ::1 - - [08/May/2025:10:36:18 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:36:18 info: ::1 - - [08/May/2025:10:36:18 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:36:18 info: ::1 - - [08/May/2025:10:36:18 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:36:27 info: ::1 - - [08/May/2025:10:36:27 +0000] "GET /api/docs/admin/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:36:44 info: Admin login attempt for email: samuelowase02@gmail.com
+2025-05-08 11:36:44 info: User found: samuelowase02@gmail.com, Role: admin, Verified: true
+2025-05-08 11:36:44 info: Password match result: false
+2025-05-08 11:36:44 warn: Failed admin login attempt for user: samuelowase02@gmail.com - Password mismatch
+2025-05-08 11:36:44 info: ::1 - - [08/May/2025:10:36:44 +0000] "POST /api/admin-auth/login HTTP/1.1" 401 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:37:43 info: Admin login attempt for email: samuelowase02@gmail.com
+2025-05-08 11:37:43 info: User found: samuelowase02@gmail.com, Role: admin, Verified: true
+2025-05-08 11:37:43 info: Password match result: false
+2025-05-08 11:37:43 warn: Failed admin login attempt for user: samuelowase02@gmail.com - Password mismatch
+2025-05-08 11:37:43 info: ::1 - - [08/May/2025:10:37:43 +0000] "POST /api/admin-auth/login HTTP/1.1" 401 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:38:47 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 11:38:47 info: Running database seeders...
+2025-05-08 11:38:47 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:38:47 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:38:47 info: Running database seeders...
+2025-05-08 11:38:48 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:38:48 info: Database seeding completed
+2025-05-08 11:38:48 info: Server listening on port 8000
+2025-05-08 11:38:48 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:38:49 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:39:06 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:39:50 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 11:39:50 info: Running database seeders...
+2025-05-08 11:39:50 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:39:50 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:39:50 info: Running database seeders...
+2025-05-08 11:39:50 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:39:50 info: Database seeding completed
+2025-05-08 11:39:50 info: Server listening on port 8000
+2025-05-08 11:39:51 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:39:51 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:42:10 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:42:10 info: Running database seeders...
+2025-05-08 11:42:11 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:42:12 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:42:12 info: Database seeding completed
+2025-05-08 11:42:12 info: Server listening on port 8000
+2025-05-08 11:42:15 info: ::1 - - [08/May/2025:10:42:15 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:42:19 info: ::1 - - [08/May/2025:10:42:19 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:42:19 info: ::1 - - [08/May/2025:10:42:19 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:42:19 info: ::1 - - [08/May/2025:10:42:19 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:42:19 info: ::1 - - [08/May/2025:10:42:19 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:42:26 info: ::1 - - [08/May/2025:10:42:26 +0000] "GET /api/docs/admin/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:42:44 info: Admin login attempt for email: samuelowase02@gmail.com
+2025-05-08 11:42:44 info: User found: samuelowase02@gmail.com, Role: admin, Verified: true
+2025-05-08 11:42:45 info: Password match result: false
+2025-05-08 11:42:45 warn: Failed admin login attempt for user: samuelowase02@gmail.com - Password mismatch
+2025-05-08 11:42:45 info: Bypassing password check for admin: samuelowase02@gmail.com
+2025-05-08 11:42:45 info: Admin login successful: samuelowase02@gmail.com
+2025-05-08 11:42:45 info: ::1 - - [08/May/2025:10:42:45 +0000] "POST /api/admin-auth/login HTTP/1.1" 200 348 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:43:45 info: ::1 - - [08/May/2025:10:43:45 +0000] "POST /api/admin/register HTTP/1.1" 401 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:47:17 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:47:17 info: Running database seeders...
+2025-05-08 11:47:17 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 11:47:17 info: Running database seeders...
+2025-05-08 11:47:18 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:47:18 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:47:19 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:47:19 info: Database seeding completed
+2025-05-08 11:47:19 info: Server listening on port 8000
+2025-05-08 11:47:19 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:47:58 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 11:47:58 info: Running database seeders...
+2025-05-08 11:47:58 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:47:58 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 11:47:58 info: Running database seeders...
+2025-05-08 11:47:59 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:47:59 info: Database seeding completed
+2025-05-08 11:47:59 info: Server listening on port 8000
+2025-05-08 11:47:59 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:48:00 info: Groups already exist. Skipping group seeding.
+2025-05-08 11:50:32 info: ::1 - - [08/May/2025:10:50:31 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:50:33 info: ::1 - - [08/May/2025:10:50:33 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:50:33 info: ::1 - - [08/May/2025:10:50:33 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:50:33 info: ::1 - - [08/May/2025:10:50:33 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:50:33 info: ::1 - - [08/May/2025:10:50:33 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 11:50:38 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 11:50:38 info: Running database seeders...
+2025-05-08 11:50:39 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 11:50:39 info: Groups already exist. Skipping group seeding.
+2025-05-08 13:46:16 info: ::1 - - [08/May/2025:12:46:16 +0000] "POST /api/admin/register HTTP/1.1" 401 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:52:50 info: ::1 - - [08/May/2025:12:52:50 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:52:50 info: ::1 - - [08/May/2025:12:52:50 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:52:50 info: ::1 - - [08/May/2025:12:52:50 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:52:50 info: ::1 - - [08/May/2025:12:52:50 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:52:51 info: ::1 - - [08/May/2025:12:52:51 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:52:52 info: ::1 - - [08/May/2025:12:52:52 +0000] "GET /api/docs/admin/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:53:03 info: Admin login attempt for email: samuelowase02@gmail.com
+2025-05-08 13:53:07 info: User found: samuelowase02@gmail.com, Role: admin, Verified: true
+2025-05-08 13:53:08 info: Password match result: false
+2025-05-08 13:53:08 info: Default admin password reset for: samuelowase02@gmail.com
+2025-05-08 13:53:08 info: Admin login successful: samuelowase02@gmail.com
+2025-05-08 13:53:08 info: ::1 - - [08/May/2025:12:53:08 +0000] "POST /api/admin-auth/login HTTP/1.1" 200 348 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:54:42 info: Admin invitation email sent to: newadmin@example.com
+2025-05-08 13:54:42 info: New admin user created by samuelowase02@gmail.com: newadmin@example.com
+2025-05-08 13:54:42 info: ::1 - - [08/May/2025:12:54:42 +0000] "POST /api/admin/register HTTP/1.1" 201 137 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:56:33 info: ::1 - - [08/May/2025:12:56:33 +0000] "GET /api/admin/users?page=1&limit=10 HTTP/1.1" 200 2577 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:57:41 warn: Validation error: [{"type":"field","value":"string","msg":"Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character","path":"password","location":"body"}]
+2025-05-08 13:57:41 info: ::1 - - [08/May/2025:12:57:41 +0000] "POST /api/admin/users HTTP/1.1" 400 203 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:58:01 warn: Validation error: [{"type":"field","value":"String100","msg":"Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character","path":"password","location":"body"}]
+2025-05-08 13:58:01 info: ::1 - - [08/May/2025:12:58:01 +0000] "POST /api/admin/users HTTP/1.1" 400 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:58:25 info: Admin invitation email sent to: user@example.com
+2025-05-08 13:58:25 info: New admin user created by samuelowase02@gmail.com: user@example.com
+2025-05-08 13:58:25 info: ::1 - - [08/May/2025:12:58:25 +0000] "POST /api/admin/users HTTP/1.1" 201 137 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 13:59:19 info: ::1 - - [08/May/2025:12:59:19 +0000] "GET /api/admin/stats HTTP/1.1" 200 821 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:04:51 info: ::1 - - [08/May/2025:13:04:50 +0000] "GET /api/docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:05:03 info: ::1 - - [08/May/2025:13:05:03 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:05:04 info: ::1 - - [08/May/2025:13:05:04 +0000] "GET /api/docs/user/swagger-ui-init.js HTTP/1.1" 200 30550 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:05:04 info: ::1 - - [08/May/2025:13:05:04 +0000] "GET /api/docs/user/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:05:04 info: ::1 - - [08/May/2025:13:05:04 +0000] "GET /api/docs/user/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:05:04 info: ::1 - - [08/May/2025:13:05:04 +0000] "GET /api/docs/user/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:11:39 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 14:11:39 info: Running database seeders...
+2025-05-08 14:11:40 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:11:40 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:11:40 info: Running database seeders...
+2025-05-08 14:11:41 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:11:41 info: Database seeding completed
+2025-05-08 14:11:41 info: Server listening on port 8000
+2025-05-08 14:11:41 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:11:42 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:12:02 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:12:02 info: Running database seeders...
+2025-05-08 14:12:02 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:12:03 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:12:03 info: Database seeding completed
+2025-05-08 14:12:03 info: Server listening on port 8000
+2025-05-08 14:12:17 info: ::1 - - [08/May/2025:13:12:17 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:19 info: ::1 - - [08/May/2025:13:12:19 +0000] "GET /api/docs/user/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:19 info: ::1 - - [08/May/2025:13:12:19 +0000] "GET /api/docs/user/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:19 info: ::1 - - [08/May/2025:13:12:19 +0000] "GET /api/docs/user/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:19 info: ::1 - - [08/May/2025:13:12:19 +0000] "GET /api/docs/user/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:52 info: ::1 - - [08/May/2025:13:12:52 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:52 info: ::1 - - [08/May/2025:13:12:52 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:52 info: ::1 - - [08/May/2025:13:12:52 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:52 info: ::1 - - [08/May/2025:13:12:52 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:52 info: ::1 - - [08/May/2025:13:12:52 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:53 info: ::1 - - [08/May/2025:13:12:53 +0000] "GET /api/docs/admin/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:57 info: ::1 - - [08/May/2025:13:12:57 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:58 info: ::1 - - [08/May/2025:13:12:58 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:58 info: ::1 - - [08/May/2025:13:12:58 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:58 info: ::1 - - [08/May/2025:13:12:58 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:12:58 info: ::1 - - [08/May/2025:13:12:58 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:15:21 info: ::1 - - [08/May/2025:13:15:21 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:15:24 info: ::1 - - [08/May/2025:13:15:24 +0000] "GET /api/docs/user/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:15:24 info: ::1 - - [08/May/2025:13:15:24 +0000] "GET /api/docs/user/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:15:24 info: ::1 - - [08/May/2025:13:15:24 +0000] "GET /api/docs/user/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:15:24 info: ::1 - - [08/May/2025:13:15:24 +0000] "GET /api/docs/user/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:18:28 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:18:28 info: Running database seeders...
+2025-05-08 14:18:29 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:18:29 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:18:29 info: Database seeding completed
+2025-05-08 14:18:29 info: Server listening on port 8000
+2025-05-08 14:18:30 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 14:18:30 info: Running database seeders...
+2025-05-08 14:18:30 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:18:33 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:18:41 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:18:41 info: Running database seeders...
+2025-05-08 14:18:41 info: MongoDB Connected: cluster0-shard-00-01.c7ltd.mongodb.net
+2025-05-08 14:18:41 info: Running database seeders...
+2025-05-08 14:18:41 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:18:41 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:18:42 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:18:42 info: Database seeding completed
+2025-05-08 14:18:42 info: Server listening on port 8000
+2025-05-08 14:18:42 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:19:22 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 14:19:22 info: Running database seeders...
+2025-05-08 14:19:22 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:19:22 info: Running database seeders...
+2025-05-08 14:19:23 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:19:23 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:19:23 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:19:23 info: Database seeding completed
+2025-05-08 14:19:23 info: Server listening on port 8000
+2025-05-08 14:19:23 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:20:35 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 14:20:35 info: Running database seeders...
+2025-05-08 14:20:36 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:20:36 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:20:36 info: Database seeding completed
+2025-05-08 14:20:36 info: Server listening on port 8000
+2025-05-08 14:20:37 info: ::ffff:127.0.0.1 - - [08/May/2025:13:20:37 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:20:38 info: ::ffff:127.0.0.1 - - [08/May/2025:13:20:38 +0000] "GET /api/docs/user/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:20:38 info: ::ffff:127.0.0.1 - - [08/May/2025:13:20:38 +0000] "GET /api/docs/user/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:20:38 info: ::ffff:127.0.0.1 - - [08/May/2025:13:20:38 +0000] "GET /api/docs/user/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:20:38 info: ::ffff:127.0.0.1 - - [08/May/2025:13:20:38 +0000] "GET /api/docs/user/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:21:30 info: ::1 - - [08/May/2025:13:21:30 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:21:31 info: ::1 - - [08/May/2025:13:21:31 +0000] "GET /api/docs/admin/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:21:31 info: ::1 - - [08/May/2025:13:21:31 +0000] "GET /api/docs/admin/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:21:31 info: ::1 - - [08/May/2025:13:21:31 +0000] "GET /api/docs/admin/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:21:31 info: ::1 - - [08/May/2025:13:21:31 +0000] "GET /api/docs/admin/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:21:31 info: ::1 - - [08/May/2025:13:21:31 +0000] "GET /api/docs/admin/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:25:29 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 14:25:29 info: Running database seeders...
+2025-05-08 14:25:30 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:25:30 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:25:30 info: Running database seeders...
+2025-05-08 14:25:30 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:25:30 info: Database seeding completed
+2025-05-08 14:25:30 info: Server listening on port 8000
+2025-05-08 14:25:31 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:25:31 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:27:10 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 14:27:10 info: Running database seeders...
+2025-05-08 14:27:11 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:27:12 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:27:24 info: ::1 - - [08/May/2025:13:27:24 +0000] "GET /api/docs/user/ HTTP/1.1" 200 1454 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:27:47 info: ::1 - - [08/May/2025:13:27:47 +0000] "GET /api/docs/admin/ HTTP/1.1" 200 1456 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:29:08 info: ::1 - - [08/May/2025:13:29:08 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:29:53 info: MongoDB Connected: cluster0-shard-00-02.c7ltd.mongodb.net
+2025-05-08 14:29:53 info: Running database seeders...
+2025-05-08 14:29:53 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:29:54 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:29:54 info: Database seeding completed
+2025-05-08 14:29:54 info: Server listening on port 8000
+2025-05-08 14:30:02 info: ::1 - - [08/May/2025:13:30:02 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:30:18 info: ::1 - - [08/May/2025:13:30:18 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 29 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:32:59 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 14:32:59 info: Running database seeders...
+2025-05-08 14:33:00 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:33:00 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:33:00 info: Database seeding completed
+2025-05-08 14:33:00 info: Server listening on port 8000
+2025-05-08 14:35:16 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 14:35:16 info: Running database seeders...
+2025-05-08 14:35:17 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 14:35:17 info: Groups already exist. Skipping group seeding.
+2025-05-08 14:35:17 info: Database seeding completed
+2025-05-08 14:35:17 info: Server listening on port 8000
+2025-05-08 14:35:36 info: ::1 - - [08/May/2025:13:35:36 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:35:40 info: ::1 - - [08/May/2025:13:35:40 +0000] "GET /api/docs/user-spec HTTP/1.1" 200 13026 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:38:02 info: ::1 - - [08/May/2025:13:38:02 +0000] "GET /api/docs/admin/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 14:38:03 info: ::1 - - [08/May/2025:13:38:03 +0000] "GET /api/docs/admin-spec HTTP/1.1" 200 13583 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:04:45 info: Verification email sent to: sampraise@gmail.com
+2025-05-08 16:04:45 info: New user registered: sampraise@gmail.com
+2025-05-08 16:04:45 info: ::1 - - [08/May/2025:15:04:45 +0000] "POST /api/auth/signup HTTP/1.1" 201 127 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:05:44 info: ::1 - - [08/May/2025:15:05:44 +0000] "POST /api/auth/login HTTP/1.1" 403 56 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:06:53 info: Verifying email with token: d2e4714e721f8bba515fca0f0c0e4d5d88fc18b35739a394ae97eca60986bf3c
+2025-05-08 16:06:53 info: User verified: sampraise@gmail.com
+2025-05-08 16:06:53 info: ::1 - - [08/May/2025:15:06:53 +0000] "GET /api/auth/verify-email?token=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fauth%2Fverify-email%3Ftoken%3Dd2e4714e721f8bba515fca0f0c0e4d5d88fc18b35739a394ae97eca60986bf3c HTTP/1.1" 200 62 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:07:08 info: User logged in: sampraise@gmail.com
+2025-05-08 16:07:08 info: ::1 - - [08/May/2025:15:07:08 +0000] "POST /api/auth/login HTTP/1.1" 200 335 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:08:57 info: Password reset email sent to: sampraise@gmail.com
+2025-05-08 16:08:57 info: Password reset requested for: sampraise@gmail.com
+2025-05-08 16:08:57 info: ::1 - - [08/May/2025:15:08:57 +0000] "POST /api/auth/forgot-password HTTP/1.1" 200 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:10:15 info: Resetting password with token
+2025-05-08 16:10:16 info: Password reset successful for: sampraise@gmail.com
+2025-05-08 16:10:16 info: ::1 - - [08/May/2025:15:10:16 +0000] "POST /api/auth/reset-password HTTP/1.1" 200 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:10:50 info: User logged in: sampraise@gmail.com
+2025-05-08 16:10:50 info: ::1 - - [08/May/2025:15:10:50 +0000] "POST /api/auth/login HTTP/1.1" 200 335 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:11:35 info: ::1 - - [08/May/2025:15:11:35 +0000] "GET /api/users/profile HTTP/1.1" 200 172 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:12:27 info: User profile updated: sampraise@gmail.com
+2025-05-08 16:12:27 info: ::1 - - [08/May/2025:15:12:27 +0000] "PUT /api/users/profile HTTP/1.1" 200 184 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:13:32 info: Password changed for user: sampraise@gmail.com
+2025-05-08 16:13:32 info: ::1 - - [08/May/2025:15:13:32 +0000] "PUT /api/users/change-password HTTP/1.1" 200 43 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:13:54 info: ::1 - - [08/May/2025:15:13:54 +0000] "GET /api/users HTTP/1.1" 200 823 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:15:00 info: ::1 - - [08/May/2025:15:15:00 +0000] "GET /api/users/673f4c8c9be0c562a3f9bd78/messages HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:15:44 info: Private message sent from sampraise@gmail.com to undefined
+2025-05-08 16:15:44 info: ::1 - - [08/May/2025:15:15:44 +0000] "POST /api/users/673f4c8c9be0c562a3f9bd78/messages HTTP/1.1" 201 290 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:16:05 info: ::1 - - [08/May/2025:15:16:05 +0000] "GET /api/users/673f4c8c9be0c562a3f9bd78/messages HTTP/1.1" 200 292 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:17:34 info: New group created: Backend Tutorial by user sampraise@gmail.com
+2025-05-08 16:17:34 info: ::1 - - [08/May/2025:15:17:34 +0000] "POST /api/groups HTTP/1.1" 201 282 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:18:10 info: ::1 - - [08/May/2025:15:18:10 +0000] "GET /api/groups/681ccb0dc2854479f4bb6685/messages HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:18:41 info: ::1 - - [08/May/2025:15:18:41 +0000] "POST /api/groups/681ccb0dc2854479f4bb6685/join HTTP/1.1" 400 52 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:19:25 info: Group message sent to Backend Tutorial by user sampraise@gmail.com
+2025-05-08 16:19:25 info: ::1 - - [08/May/2025:15:19:25 +0000] "POST /api/groups/681ccb0dc2854479f4bb6685/messages HTTP/1.1" 201 300 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:28:04 info: ::1 - - [08/May/2025:15:28:04 +0000] "GET /api/ HTTP/1.1" 404 29 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:28:10 info: ::1 - - [08/May/2025:15:28:10 +0000] "GET /api/docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:28:15 info: ::1 - - [08/May/2025:15:28:15 +0000] "GET /api/docs/websocket HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:28:23 info: ::1 - - [08/May/2025:15:28:23 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:28:23 info: ::1 - - [08/May/2025:15:28:23 +0000] "GET /api/docs/user-spec HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
