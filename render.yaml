@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: sirpaul-backend
+    env: node
+    buildCommand: npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 8000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_EXPIRES_IN
+        value: 7d
+      - key: MONGODB_URI
+        sync: false
+      - key: EMAIL_SERVICE
+        sync: false
+      - key: EMAIL_USER
+        sync: false
+      - key: EMAIL_PASS
+        sync: false
+      - key: EMAIL_FROM
+        sync: false
+      - key: DEFAULT_ADMIN_EMAIL
+        value: samuelowase02@gmail.com
+      - key: DEFAULT_ADMIN_PASSWORD
+        sync: false

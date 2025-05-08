@@ -360,3 +360,9 @@
 2025-05-08 16:28:15 info: ::1 - - [08/May/2025:15:28:15 +0000] "GET /api/docs/websocket HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
 2025-05-08 16:28:23 info: ::1 - - [08/May/2025:15:28:23 +0000] "GET /api/docs/user/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
 2025-05-08 16:28:23 info: ::1 - - [08/May/2025:15:28:23 +0000] "GET /api/docs/user-spec HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+2025-05-08 16:33:40 info: MongoDB Connected: cluster0-shard-00-00.c7ltd.mongodb.net
+2025-05-08 16:33:40 info: Running database seeders...
+2025-05-08 16:33:40 info: Admin user already exists. Skipping admin seeding.
+2025-05-08 16:33:41 info: Groups already exist. Skipping group seeding.
+2025-05-08 16:33:41 info: Database seeding completed
+2025-05-08 16:33:41 info: Server listening on port 8000
